@@ -1,6 +1,6 @@
 image: ubuntu
 
-stack: node 20
+stack: node 18
 
 branches:
   only:
